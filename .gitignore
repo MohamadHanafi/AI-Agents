@@ -220,3 +220,7 @@ __marimo__/
 # others
 *.pdf
 *.txt
+*.md
+*.JSON
+*.csv
+*.docx
