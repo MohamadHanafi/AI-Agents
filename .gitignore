@@ -224,3 +224,6 @@ __marimo__/
 *.JSON
 *.csv
 *.docx
+
+// chromadb
+chroma_db/
